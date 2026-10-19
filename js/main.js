@@ -1,4 +1,4 @@
-(()=>{const WA='971585900792',MAIL='contact@businessjetcenter.net';
+(()=>{const WA='971585900792',MAIL='charter@businessjetcenter.net';
 const $=s=>document.querySelector(s),$$=s=>document.querySelectorAll(s);
 const store={get(){try{return localStorage.getItem('bjc-lang')}catch(e){return null}},set(v){try{localStorage.setItem('bjc-lang',v)}catch(e){}}};
 const enTitle=document.title;
